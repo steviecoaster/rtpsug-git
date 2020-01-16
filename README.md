@@ -27,7 +27,7 @@ Pop open a command line and execute the following:
 mkdir C:\Git
 
 #Clone the repo. Change this URL to the link from your fork (just change the username here basically).
-git clone https://github.com/steviecoaster/rtpsug-git
+git clone https://github.com/steviecoaster/rtpsug-git.git
 ```
 
 # Making your first commit
